@@ -30,7 +30,7 @@ Here's a GIF that demos all of the app's implemented features:
 <img src='https://i.imgur.com/tfoPiPo.gif' title='Video Demo' width='' alt='Video Demo' />
 
 And as a bonus, here's a GIF screenrecording of the app running on my iPhone 13!
-https://i.imgur.com/UbNKLe3.gif
+<img src='https://i.imgur.com/UbNKLe3.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Notes
 
