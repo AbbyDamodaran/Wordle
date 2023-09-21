@@ -25,11 +25,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a GIF that demos all of the app's implemented features:
+Here's a video / GIF that demos all of the app's implemented features:
+
 <img src='https://i.imgur.com/tfoPiPo.gif' title='Video Demo' width='' alt='Video Demo' />
 
-Here's a GIF screenrecording of the app running on my iPhone 13!
-![]([https://i.imgur.com/UbNKLe3.gif)
+# GIF of app running on my iPhone 14
+https://i.imgur.com/UbNKLe3.gif
 
 ## Notes
 
