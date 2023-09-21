@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [x] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
@@ -25,10 +25,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/tfoPiPo.gif' title='Video Demo' width='' alt='Video Demo' />
 
+And as a bonus, here's a GIF screenrecording of the app running on my iPhone 13!
+<img src='https://i.imgur.com/UbNKLe3.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Notes
 
